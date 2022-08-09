@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a sophomore of CSE department at IIT Kanpur. I have a deep interest in Cybersecurity, Cryptography, Block Chain and Robotics. I love to learn new stuff and I am highly inclined towards research.
+I am a sophomore of CSE department at IIT Kanpur. I have a deep interest in Cybersecurity, Cryptography, Block Chain and Robotics.
 
 - 🔭 I’m currently working on self development
 - 🌱 I’m currently exploring various fields of Computer Science
