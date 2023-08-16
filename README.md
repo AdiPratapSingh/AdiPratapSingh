@@ -8,8 +8,7 @@ I am a sophomore of CSE department at IIT Kanpur. I have a deep interest in Cybe
 
 <p align = "center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiPratapSingh)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 </p>
 
 <p align = "center">
